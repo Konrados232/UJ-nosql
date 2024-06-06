@@ -1,0 +1,8 @@
+{
+    "id": "greatsword-MoonlightGreatsword",
+    "artWeaponType": "greatsword",
+    "name": "Moonlight Greatsword",
+    "FPcost": 32,
+    "duration": 60,
+    "description": "Raise the sword aloft, bathing it in the light of the dark moon. Temporarily increases magic attack power and imbues blade with frost. Heavy attacks release blasts of moonlight."
+}

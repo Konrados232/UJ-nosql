@@ -1,0 +1,51 @@
+{
+    "id": "katana-Uchigatana",
+    "weaponType": "katana",
+    "name": "Uchigatana",
+    "attackTypes": [
+        {
+            "phy": 115
+        },
+        {
+            "crit": 100
+        }
+    ],
+    "guardTypes": [
+        {
+            "phy": 45
+        },
+        {
+            "mag": 30
+        },
+        {
+            "fire": 30
+        },
+        {
+            "ligt": 30
+        },
+        {
+            "holy": 30
+        },
+        {
+            "boost": 30
+        }
+    ],
+    "requirements": [
+        {
+            "str": 11
+        },
+        {
+            "dex": 15
+        }
+    ],
+    "scaling": {
+        "str": "D",
+        "dex": "D"
+    },
+    "weight": 5.5,
+    "numbers": [
+        1,
+        3
+    ],
+    "description": "A katana with a long single-edged curved blade.  A unique weapon wielded by the samurai from the Land of Reeds. The blade, with its undulating design, boasts extraordinary sharpness, and its slash attacks cause blood loss."
+}

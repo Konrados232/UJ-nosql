@@ -1,0 +1,50 @@
+{
+    "id": "greatsword-DarkMoonGreatsword",
+    "weaponType": "greatsword",
+    "name": "Dark Moon Greatsword",
+    "attackTypes": [
+        {
+            "phy": 82
+        },
+        {
+            "mag": 98
+        },
+        {
+            "crit": 100
+        }
+    ],
+    "guardTypes": [
+        {
+            "phy": 57
+        },
+        {
+            "mag": 63
+        },
+        {
+            "fire": 31
+        },
+        {
+            "ligt": 31
+        },
+        {
+            "holy": 31
+        },
+        {
+            "boost": 44
+        }
+    ],
+    "requirements": [
+        {
+            "str": 16
+        },
+        {
+            "dex": 11
+        },
+        {
+            "int": 38
+        }
+    ],
+    "uniqueArt": "Moonlight Greatsword",
+    "weight": 10.0,
+    "description": "A Moon Greatsword, bestowed by a Carian queen upon her spouse to honor long-standing tradition. One of the legendary armaments. Ranni's sigil is a full moon, cold and leaden, and this sword is but a beam of its light."
+}

@@ -1,0 +1,52 @@
+{
+    "id": "colossalsword-Greatsword",
+    "weaponType": "colossalsword",
+    "name": "Greatsword",
+    "attackTypes": [
+        {
+            "phy": 164
+        },
+        {
+            "crit": 100
+        }
+    ],
+    "guardTypes": [
+        {
+            "phy": 84
+        },
+        {
+            "mag": 50
+        },
+        {
+            "fire": 50
+        },
+        {
+            "ligt": 50
+        },
+        {
+            "holy": 50
+        },
+        {
+            "boost": 56
+        }
+    ],
+    "requirements": [
+        {
+            "str": 31
+        },
+        {
+            "dex": 12
+        }
+    ],
+    "scaling": {
+        "str": "C",
+        "dex": "E"
+    },
+    "weight": 23.0,
+    "numbers": [
+        1,
+        2,
+        3
+    ],
+    "description": "A coarse iron lump of an ultra greatsword. Mows down foes by utilizing its incredible weight. Though handling it likely requires the wielder to have surpassed the realm of the merely human, it is precisely for this reason the weapon is used to slaughter even inhuman foes."
+}

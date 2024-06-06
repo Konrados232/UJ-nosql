@@ -1,0 +1,51 @@
+{
+    "id": "katana-HandOfMalenia",
+    "weaponType": "katana",
+    "name": "Hand of Malenia",
+    "attackTypes": [
+        {
+            "phy": 117
+        },
+        {
+            "crit": 100
+        }
+    ],
+    "guardTypes": [
+        {
+            "phy": 49
+        },
+        {
+            "mag": 33
+        },
+        {
+            "fire": 33
+        },
+        {
+            "ligt": 33
+        },
+        {
+            "holy": 33
+        },
+        {
+            "boost": 33
+        }
+    ],
+    "requirements": [
+        {
+            "str": 16
+        },
+        {
+            "dex": 48
+        }
+    ],
+    "scaling": {
+        "str": "E",
+        "dex": "C"
+    },
+    "weight": 7.0,
+    "uniqueArt": "Waterfowl Dance",
+    "numbers": [
+        3
+    ],
+    "description": "Blade built into Malenia's prosthetic arm. Through consecration it is resistant to rot. Malenia's war prosthesis symbolized her victories. Some claim to have seen wings when the weapon was raised aloft; wings of fierce determination that have never known defeat."
+}
